@@ -357,7 +357,7 @@ Through this project, the following concepts were explored:
 ```text
 LoanLens/
 │
-├── loan_approval_prediction.ipynb
+├── LoanLens.ipynb
 ├── loan_approval_data.csv
 ├── README.md
 └── CreditWise Loan System.pdf
